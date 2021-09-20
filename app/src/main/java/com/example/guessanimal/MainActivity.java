@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                            YoYo.with(Techniques.Tada)
                                    .duration(400)
                                    .repeat(1)
-                                   .playOn(findViewById(R.id.cat_btn));
+                                   .playOn(findViewById(R.id.dog_btn));
                            dog.setBackgroundResource(R.drawable.incorrect_answer);
                        }
 
